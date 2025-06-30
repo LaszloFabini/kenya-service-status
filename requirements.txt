@@ -1,0 +1,9 @@
+requests
+tweepy
+python-telegram-bot
+twilio
+flask
+waitress
+prometheus_client
+apscheduler
+python-dotenv
